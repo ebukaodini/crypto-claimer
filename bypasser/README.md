@@ -1,0 +1,1 @@
+# Bypass captcha with Puppeteer
